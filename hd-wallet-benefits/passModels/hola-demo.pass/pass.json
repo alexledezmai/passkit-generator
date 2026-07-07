@@ -1,0 +1,18 @@
+{
+  "formatVersion": 1,
+  "passTypeIdentifier": "pass.mx.holadigital.benefits",
+  "serialNumber": "HD-DEMO-0001",
+  "teamIdentifier": "YOUR_APPLE_TEAM_ID",
+  "organizationName": "Hola Digital",
+  "description": "Tarjeta de beneficios Hola Digital",
+  "logoText": "Hola Benefits",
+  "foregroundColor": "rgb(255,255,255)",
+  "backgroundColor": "rgb(17,17,17)",
+  "labelColor": "rgb(16,185,129)",
+  "storeCard": {
+    "primaryFields": [],
+    "secondaryFields": [],
+    "auxiliaryFields": [],
+    "backFields": []
+  }
+}
