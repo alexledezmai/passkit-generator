@@ -1,0 +1,14 @@
+{
+  "name": "hd-wallet-benefits-starter",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Hola Digital Apple Wallet benefits pass starter using passkit-generator.",
+  "scripts": {
+    "generate": "node generate-pass.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "passkit-generator": "^3.5.7"
+  }
+}

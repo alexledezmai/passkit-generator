@@ -1,0 +1,9 @@
+node_modules/
+.env
+
+# Never commit Apple Wallet certificates or generated passes
+certs/*.pem
+certs/*.p12
+certs/*.key
+certs/*.cer
+output/*.pkpass
